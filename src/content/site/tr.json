@@ -1,0 +1,369 @@
+{
+  "nav": {
+    "home": "Ana sayfa",
+    "company": "Klinik",
+    "about": "Hakkımızda",
+    "services": "Tedaviler",
+    "blog": "Bilgi",
+    "contact": "İletişim"
+  },
+  "cta": "Randevu alın",
+  "topbar": "Kadıköy'de dijital ortodonti, şeffaf plak ve sabit tedavi.",
+  "whatsapp": {
+    "message": "Merhaba, ortodonti tedavileri hakkında bilgi almak istiyorum.",
+    "online": "Çevrimiçi",
+    "help": "Yardım mı lazım?",
+    "ask": "WhatsApp'tan sorun"
+  },
+  "hero": {
+    "eyebrow": "Ortodonti · Şeffaf plak · Sabit tedavi",
+    "title": "Ortodonti tedaviniz",
+    "accent": "güvenle planlanır",
+    "text": "Dr. Ibrahim Burak Aydın, Kadıköy'de şeffaf plak ve sabit ortodontik tedavi uygular. Graphy Aligner ile klinik içi üretim yapılır.",
+    "primary": "Randevu alın",
+    "rating": "Google'da 4.7 puan, 15 yorum",
+    "panel": "Nasıl ilerliyoruz",
+    "status": "Planlandığı gibi"
+  },
+  "highlights": [
+    "İlk muayene",
+    "Net tedavi planı",
+    "Düzenli kontrol"
+  ],
+  "metrics": [
+    {
+      "value": "4.7",
+      "label": "Google puanı"
+    },
+    {
+      "value": "15",
+      "label": "Google yorumu"
+    },
+    {
+      "value": "6",
+      "label": "Tedavi başlığı"
+    }
+  ],
+  "services": {
+    "badge": "Tedaviler",
+    "title": "İhtiyacınıza uygun",
+    "accent": "ortodonti tedavileri",
+    "intro": "Şeffaf plaktan metal brakete kadar, muayeneden sonra size uygun tedaviyi birlikte seçeriz.",
+    "more": "Detaylı bilgi",
+    "all": "Tüm tedaviler",
+    "help": "Hangi tedavinin size uygun olduğundan emin değil misiniz? Muayenede birlikte karar verelim.",
+    "details": "detay",
+    "count": "tedavi"
+  },
+  "pillars": {
+    "badge": "İki şekilde yardımcı oluyoruz",
+    "title": "Tedaviler ve",
+    "accent": "bilgi rehberi",
+    "text": "Bugün neye ihtiyacınız varsa onu seçin: klinikte muayene ya da tedavi süreci hakkında kısa bilgiler.",
+    "view": "İncele",
+    "items": [
+      {
+        "title": "Tedavilerimiz",
+        "subtitle": "Klinikte yapılır",
+        "tag": "Çocuklar ve yetişkinler",
+        "text": "Muayeneden planlamaya, takipten kontrol seanslarına kadar süreç boyunca yanınızdayız.",
+        "list": "Öne çıkan tedaviler",
+        "bullets": [
+          "İlk muayene",
+          "Net tedavi planı",
+          "Tek hekim takibi"
+        ],
+        "action": "Tüm tedaviler"
+      },
+      {
+        "title": "Bilgi rehberi",
+        "subtitle": "Kendi hızınızda okuyun",
+        "tag": "Ücretsiz bilgiler",
+        "text": "Şeffaf plak, braket ve tedavi süreci hakkında sık sorulan sorulara kısa yanıtlar.",
+        "list": "Son yazılar",
+        "bullets": [
+          "Pratik bilgiler",
+          "Sık sorulanlar",
+          "Düzenli güncellenir"
+        ],
+        "action": "Bilgi yazılarını okuyun"
+      }
+    ]
+  },
+  "why": {
+    "badge": "Neden biz",
+    "title": "Hastalar neden bizi seçiyor",
+    "text": "Titiz çalışan, bilgilendiren ve güler yüzlü bir klinik.",
+    "features": [
+      {
+        "title": "Uzman hekim",
+        "text": "Ortodontiye odaklanan, dijital planlama yapan bir diş hekimi."
+      },
+      {
+        "title": "Net süreç",
+        "text": "Sırada ne olduğunu ve neden yapıldığını her zaman bilirsiniz."
+      },
+      {
+        "title": "Hızlı yanıt",
+        "text": "Sorularınıza WhatsApp'tan hızlıca yanıt veriyoruz."
+      },
+      {
+        "title": "Düzenli takip",
+        "text": "Tedavi boyunca kontrollerle ilerlemeyi birlikte izleriz."
+      }
+    ],
+    "stats": [
+      {
+        "value": 4.7,
+        "suffix": "",
+        "label": "Puan",
+        "text": "Google'da 15 yorumun ortalaması."
+      },
+      {
+        "value": 15,
+        "suffix": "",
+        "label": "Yorum",
+        "text": "Hastaların Google'da paylaştığı değerlendirme."
+      },
+      {
+        "value": 6,
+        "suffix": "",
+        "label": "Tedavi",
+        "text": "Şeffaf plaktan seramik brakete kadar."
+      },
+      {
+        "value": 4,
+        "suffix": "",
+        "label": "Adım",
+        "text": "Muayeneden kontrole kadar net süreç."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Nasıl işler",
+    "title": "İlk muayeneden son kontrole",
+    "text": "Tedaviyi baştan sona takip eden sade bir süreç.",
+    "kicker": "Randevu ile başlayın",
+    "center": "Durumunuzu konuşalım",
+    "action": "Bize yazın",
+    "steps": [
+      {
+        "title": "Muayene",
+        "text": "Ağız ve diş yapınızı inceler, şikâyetinizi dinleriz."
+      },
+      {
+        "title": "Plan",
+        "text": "Dijital planlama ile tedavi seçeneklerini ve takvimi anlatırız."
+      },
+      {
+        "title": "Tedavi",
+        "text": "Şeffaf plak ya da braket tedavisini plana göre uygularız."
+      },
+      {
+        "title": "Kontrol",
+        "text": "Kontrollerle ilerlemeyi izler, gerekirse planı güncelleriz."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Hasta yorumları",
+    "title": "Gerçek yorumlar.",
+    "accent": "Gerçek deneyimler.",
+    "text": "Hastalarımız klinikteki deneyimini nasıl anlatıyor.",
+    "see": "Google yorumlarını görün",
+    "source": "Google yorumu",
+    "verified": "Doğrulandı",
+    "prev": "Önceki yorum",
+    "next": "Sonraki yorum",
+    "items": [
+      {
+        "name": "Google kullanıcısı",
+        "role": "2 hafta önce",
+        "project": "Ortodontist",
+        "quote": "Burak bey oğlumun diş tedavisini yapıyor. İşini büyük titizlikle yapan son derece bilgili ve ilgili bir hekim. Tedavi sürecinde bizleri bilgilendirmesi çok kıymetli. profesyonelliği ve güler yüzlü yaklaşımı ile kesinlikle tavsiye edebileceğim bir hekim",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "7 ay önce",
+        "project": "Ortodontist",
+        "quote": "Uzun zamandır böyle ilgili, güler yüzlü ve işini gerçekten titizlikle yapan bir diş hekimiyle karşılaşmamıştım. Tedavi sürecim boyunca her aşamayı detaylıca anlattı . Kliniğin temizliği ve profesyonelliği de ayrıca harika. Gönül rahatlığıyla herkese tavsiye ederim.",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "7 ay önce",
+        "project": "Ortodontist",
+        "quote": "Senelerdir sadece buraya geliyorum ve her seferinde aynı profesyonellikle karşılanıyorum. İşini bu kadar titiz, dürüst ve temiz yapan bir ekip bulmak gerçekten zor bu yüzden yıllardır başka bir yer arayışım hiç olmadı. Her işlemin titizlikle yapılması ve gösterilen samimiyet insanı gerçekten çok rahat hissettiriyor. Her şey için çok teşekkürler :)",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "7 ay önce",
+        "project": "Ortodontist",
+        "quote": "Burak Bey kızımın ortodonti tedavisini yapıyor, Senem hanım da benimle ilgileniyor. İkisinden de oldukça memnunuz. Hem bilgileri hem deneyimleri hem de nazik yaklaşımları bizi çok mutlu ediyor. Kendimizi evimizde gibi hissettirmeleri de cabası. İyi ki varlar.",
+        "rating": 5
+      },
+      {
+        "name": "Google kullanıcısı",
+        "role": "7 ay önce",
+        "project": "Ortodontist",
+        "quote": "Ömrü diş hekimlerinde geçmiş biri olarak yazıyorum, iyi ki yolum bu klinik ile kesişmiş. Uzak yollardan koşa koşa geldiğim ..en ağır operasyonlardan dahi ağrısız sızısız kalktığım, hızlı,  tertemiz ve güler yüzlü ekip. 1.5 yaşındaki oğlum dahil ailecek ve gözümüz kapalı dişlerimizi kendilerine emanet ediyoruz. İyi ki varsınız.",
+        "rating": 5
+      }
+    ]
+  },
+  "quote": {
+    "badge": "Randevu",
+    "title": "Durumunuzu anlatın",
+    "accent": "randevunuzu alın",
+    "text": "Birkaç ayrıntı paylaşın, sizi muayene için arayalım.",
+    "steps": [
+      {
+        "title": "Kısa sürede dönüş",
+        "text": "Talebinizi görür, uygun randevu saatlerini iletiriz."
+      },
+      {
+        "title": "Net tedavi planı",
+        "text": "Muayeneden sonra seçenekleri ve takvimi açıkça anlatırız."
+      },
+      {
+        "title": "Zorunlu değil",
+        "text": "Muayene sonrası tedaviye karar vermek size bağlıdır."
+      }
+    ],
+    "hotline": "Doğrudan hat"
+  },
+  "form": {
+    "eyebrow": "Randevu",
+    "title": "Randevu isteyin",
+    "text": "Adınızı ve ihtiyacınızı yazın, sizi arayalım.",
+    "name": "Ad soyad",
+    "namePlaceholder": "Adınız",
+    "phone": "Telefon",
+    "company": "Yaş",
+    "companyPlaceholder": "Yaşınız",
+    "service": "Tedavi",
+    "choose": "Tedavi seçin",
+    "details": "Şikâyet ve talebiniz",
+    "detailsPlaceholder": "Durumunuzu kısaca anlatın...",
+    "consent": "Bilgilerimin randevu için kullanılmasını kabul ediyorum.",
+    "send": "WhatsApp ile gönder",
+    "safe": "Verileriniz güvende",
+    "reply": "Dönüş: kısa sürede",
+    "sent": "Talebinizle WhatsApp açılıyor...",
+    "heading": "Yeni randevu talebi"
+  },
+  "blog": {
+    "badge": "Bilgi",
+    "title": "Bilgi yazıları",
+    "intro": "Tedavi süreci, şeffaf plak ve braketler hakkında kısa yazılar.",
+    "readMore": "Devamını okuyun",
+    "all": "Tüm yazılar",
+    "related": "İlgili yazılar",
+    "summary": "Özet",
+    "consultTitle": "Bu konuda sorunuz mu var?",
+    "consultText": "Bize mesaj gönderin, elimizden geldiğince yanıtlayalım.",
+    "consultAction": "Bize sorun"
+  },
+  "faq": {
+    "badge": "SSS",
+    "title": "Sıkça sorulan sorular",
+    "text": "En sık duyduğumuz sorulara kısa yanıtlar.",
+    "items": [
+      {
+        "question": "Nasıl başlıyoruz?",
+        "answer": "WhatsApp'tan yazın ya da bizi arayın. İlk muayene için randevu planlarız."
+      },
+      {
+        "question": "Tedavi ne kadar sürer?",
+        "answer": "Duruma göre değişir. Muayene ve dijital planlamadan sonra tahmini süreyi paylaşırız."
+      },
+      {
+        "question": "Şeffaf plak mı, braket mi?",
+        "answer": "Ağız yapınıza ve beklentinize göre değişir. Muayenede seçenekleri birlikte değerlendiririz."
+      },
+      {
+        "question": "Kontroller nasıl yapılıyor?",
+        "answer": "Tedavi boyunca düzenli kontrollerle ilerlemeyi izler, gerekirse planı güncelleriz."
+      }
+    ],
+    "bannerTitle": "Sorunuz mu var?",
+    "bannerAccent": "Klinikle konuşun.",
+    "bannerText": "Bize mesaj gönderin, kısa sürede yanıtlayalım."
+  },
+  "ctaBanner": {
+    "eyebrow": "Birlikte başlayalım",
+    "title": "Muayene için hazır mısınız?",
+    "text": "Durumunuzu anlatın, size nasıl yardımcı olabileceğimizi gösterelim.",
+    "help": "Yardım mı lazım?",
+    "call": "Bizi arayın"
+  },
+  "about": {
+    "eyebrow": "Klinik",
+    "title": "Hakkımızda",
+    "intro": "Kadıköy'de dijital ortodontiye odaklanan bir klinik.",
+    "kicker": "Yaklaşımımız",
+    "heading": "Ortodontiyi dijital planlamayla yürütüyoruz.",
+    "body": "Dr. Ibrahim Burak Aydın, İstanbul Kadıköy'de şeffaf plak sistemleri ve Graphy Aligner ile klinik içi üretim ortodontik tedavi uygular. Sabit ortodontik tedaviler de yapılır.",
+    "principles": "İlkelerimiz",
+    "principlesTitle": "Her hastada aynı dört temel ilke.",
+    "band": "Doğru kararı birlikte verelim."
+  },
+  "service": {
+    "scope": "Neler dahil",
+    "title": "Baştan doğru planlayın.",
+    "body": "Her tedavi, ağız ve diş yapınızın kısa bir değerlendirmesiyle başlar. Ardından size uygun tedavi seçeneğini ve takvimi netleştiririz.",
+    "checks": "Neleri inceliyoruz",
+    "checkItems": [
+      "Diş yapınız ve kapanışınız",
+      "Önceki tedaviler ve mevcut durum",
+      "Beklentiniz ve tedavi takvimi",
+      "Sonraki adımlar ve kontroller"
+    ],
+    "stepsTitle": "Dört adım, sürpriz yok.",
+    "sideKicker": "Uzman desteği",
+    "sideTitle": "Size uygun tedaviyi birlikte bulalım.",
+    "sideText": "Birkaç ayrıntı paylaşın, sizi muayeneye çağıralım.",
+    "sideList": [
+      "İlk muayene",
+      "Yazılı tedavi planı",
+      "Tek hekim takibi"
+    ],
+    "related": "Diğer tedaviler",
+    "relatedTitle": "İlgili tedaviler.",
+    "formTitle": "Randevu alın:",
+    "formHeading": "Tedavinizi birlikte planlayalım.",
+    "formText": "Durumunuzu dinler, size sade bir tedavi planı anlatırız."
+  },
+  "contact": {
+    "eyebrow": "İletişim ve randevu",
+    "title": "İletişim",
+    "intro": "Bir sorunuz ya da randevu talebiniz mi var? Bize yazın, kısa sürede dönelim.",
+    "kicker": "İletişim",
+    "heading": "Bize mesaj gönderin.",
+    "text": "Durumunuzu anlatın, klinik sizinle iletişime geçsin.",
+    "office": "Kliniğimiz",
+    "phoneEmail": "Telefon ve e-posta",
+    "hours": "Çalışma saatleri",
+    "hoursValue": "Randevu ile planlanır",
+    "closed": "Telefon ve WhatsApp ile ulaşabilirsiniz",
+    "phone": "Telefon",
+    "email": "E-posta"
+  },
+  "footer": {
+    "tagline": "Kadıköy'de şeffaf plak, Graphy Aligner ve sabit ortodontik tedavi.",
+    "rights": "Tüm hakları saklıdır.",
+    "contact": "İletişim ve klinik",
+    "trust": [
+      "İlk muayene",
+      "Net tedavi planı",
+      "Düzenli kontrol"
+    ]
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Aradığınız sayfa mevcut değil ya da taşınmış.",
+    "home": "Ana sayfaya dön"
+  }
+}
